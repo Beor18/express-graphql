@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos",
+    "apellido": "Rodriguez",
+    "edad": 21,
+    "hobbies": ["programar", "cantar", "cine", "dibujar"]
+  },
+  {
+    "id": 2,
+    "nombre": "Jesus",
+    "apellido": "Medina",
+    "edad": 23,
+    "hobbies": ["cocinar", "música", "cine", "salir"]
+  },
+  {
+    "id": 3,
+    "nombre": "Karla",
+    "apellido": "Araúz",
+    "edad": 18,
+    "hobbies": ["dibujar", "cocinar", "salir"]
+  },
+  {
+    "id": 4,
+    "nombre": "Marcos",
+    "apellido": "Navarro",
+    "edad": 25,
+    "hobbies": ["programar", "musica"]
+  },
+  {
+    "id": 5,
+    "nombre": "Jose",
+    "apellido": "Mendoza",
+    "edad": 18,
+    "hobbies": ["editar videos", "cantar", "tocar guitarra"]
+  }
+]
+
